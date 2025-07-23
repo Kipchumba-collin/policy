@@ -1,6 +1,6 @@
 # Privacy and Data Use Policy  
 **CIC Insurance Group Mobile App**  
-**Effective Date:** [Insert Date]
+**Effective Date:** July 05, 2025
 
 ## 1. Introduction
 CIC Insurance Group ("CIC", "we", "our", "us") is committed to protecting your privacy and ensuring the security of your personal data. This Privacy and Data Use Policy explains how we collect, use, store, and protect your information when you use the CIC Insurance Group mobile application ("App").
@@ -63,6 +63,5 @@ For questions or concerns, please contact:
 
 **Data Protection Officer**  
 CIC Insurance Group  
-Email: [Insert Email]  
-Phone: [Insert Support Line]  
+Phone: 0797871105  
 Website: [https://www.cicinsurancegroup.com](https://www.cicinsurancegroup.com)
